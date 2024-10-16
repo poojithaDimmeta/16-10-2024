@@ -13,7 +13,7 @@ void main()
          printf("it is not palindrome");
          return;
      }
-     printf("it is palindrome");
-  }
+     }
+printf("it is palindrome");
 }
 
